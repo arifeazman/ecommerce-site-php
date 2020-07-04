@@ -1,4 +1,4 @@
 # ecommerce-site-php
 
 This is how the index page looks.
-![](site-look/index-look.php)
+![](site_look/index_look.jpg)
